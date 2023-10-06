@@ -11,3 +11,4 @@ pandera
 imblearn
 imbalanced-learn
 matplotlib
+ml_insights
